@@ -17,4 +17,6 @@ pip install -r requirements.txt
 python ImagePanelPlotter.py
 
 ### Example
+<img src="https://github.com/user-attachments/assets/d478542a-4e18-42e0-a37a-e9f71c41c923" alt="GUI" width="200"/>
+<img src="https://github.com/user-attachments/assets/cdf14b68-bdc5-448c-8f66-2323dcc6e45c" alt="GUI" width="400"/>
 Images obtained from: https://www.leica-microsystems.com/science-lab/life-science/multicolor-microscopy-the-importance-of-multiplexing/
